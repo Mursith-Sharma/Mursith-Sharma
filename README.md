@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m exploring the intersection of technology, security, and web development to build smarter solutions.<br>💻 Currently specializing in HTML, CSS, Bootstrap, PHP, and MySQL.<br>📈 Actively leveling up my skills in .NET and React.<br>🧠 Always ready to talk about full stack development and Cyber security.<br>🚀 Let’s create something awesome together!<br><br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Cyber+Ops...;Connecting+to+GitHub+Server...;Deploying+Full+Stack+Skills...;Access+Granted!+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines= Hey I’m Mursith Sharma....;Connecting+to+GitHub+Server...;Deploying+Full+Stack+Skills...;Access+Granted!+%F0%9F%91%8D" alt="Typing SVG" />
 
 
 # 💻 Tech Stack:
@@ -11,7 +11,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mursith-Sharma&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mursith-Sharma&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
