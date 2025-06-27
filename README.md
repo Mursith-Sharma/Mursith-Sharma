@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+Im+Mursith+Sharma;Cybersecurity+is+my+battlefield+-+I+never+lose;Powering+solutions+with+Full+Stack+skills;Move+in+silence...+Checkmate" alt="Typing Animation" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+Im+Mursith+Sharma;Cybersecurity+is+my+Battlefield+-+I+Never+lose;Powering+complete+solutions+-+That+is+My+Stack+Way;Move+in+silence...+Checkmate!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+Im+Mursith+Sharma...;Cybersecurity+is+my+Battlefield+-+I+Never+lose.;Powering+complete+solutions+-+That+is+My+Stack+Way...;Move+in+silence...+Checkmate!" alt="Typing Animation" />
 </p>
 
 # 💻 Tech Stack:
