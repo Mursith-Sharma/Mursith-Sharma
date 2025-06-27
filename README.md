@@ -2,10 +2,20 @@
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m exploring the intersection of technology, security, and web development to build smarter solutions.<br>💻 Currently specializing in HTML, CSS, Bootstrap, PHP, and MySQL.<br>📈 Actively leveling up my skills in .NET and React.<br>🧠 Always ready to talk about full stack development and Cyber security.<br>🚀 Let’s create something awesome together!<br><br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Cyber+Ops...;Connecting+to+GitHub+Server...;Deploying+Full+Stack+Skills...;Access+Granted!+%F0%9F%91%8D" alt="Typing SVG" />
-</p>
-https://camo.githubusercontent.com/1cc478d6ea38eab530acb98124c749dba0c5b19294bee0ee4bd6169ae4f5639d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9f/08/0e/9f080e7cb8288b2bafaa50f911361f89.gif" width="500" alt="Matrix 3D Rain">
+  <img src="https://i.gifer.com/origin/12/12635fcee6db2f228070edd5c616cd53_w200.gif" width="600" alt="Classic Matrix Code Rain">
+</p>
+<p align="center">
+  <img src="https://i.gifer.com/7Im4.gif" width="600" alt="Green Digits Stream">
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/0OLIO-lc0a0AAAAC/number-rain-matrix.gif" width="600" alt="Numeric Matrix Rain">
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/vDWirSXGp0kAAAAC/code-matrix.gif" width="600" alt="Syntax Matrix Rain">
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/Wj1KYXVlmqQAAAAC/matrix-effect.gif" width="600" alt="Matrix Tunnel Rain">
 </p>
 
 
