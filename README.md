@@ -5,19 +5,32 @@
 
 
 <!------------------------------------------------------------------------------------------------------------------->
-# 💻 Cyber Terminal v5.0
-
 <p align="center">
-  <img src="https://media.tenor.com/0OLIO-lc0a0AAAAC/number-rain-matrix.gif" width="400">
+  <img src="https://media.tenor.com/0OLIO-lc0a0AAAAC/number-rain-matrix.gif" width="500">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HACKER+5.0+ACTIVATED;SYSTEM+PENETRATION+IN+PROGRESS;CYBER+OPS+INITIALIZED;ACCESS+GRANTED" alt="Hacker Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&background=000000&center=true&width=500&lines=MATRIX+TERMINAL+ACTIVATED;CYBER+DEFENSE+SYSTEMS+ONLINE;ACCESSING+SECURE+DATABASES;ROOT+PRIVILEGES+GRANTED" alt="Matrix Typing Animation">
 </p>
-
-## 🚀 System Status
-
-```bash
-███████████████████████████████ 100%
-# COMPROMISE SUCCESSFUL
+<p align="center">
+  <img src="https://64.media.tumblr.com/1c4a739e8f3a22d1a5f8e4c4a4f4e4e4/tumblr_ozwqyqQY0W1qio469o1_500.gif" width="550">
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/2b/4e/6e/2b4e6e4f7f3f9e9b9f3e3e3e3e3e3e3e.gif" width="600">
+  
+  <pre>
+  01001000 01000001 01000011 01001011 
+  01000101 01010010 00100000 00110101 
+  00101110 00110000 00100000 01010011 
+  01011001 01010011 01010100 01000101 
+  01001101 00100000 01001111 01001110 
+  </pre>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll4O2jik8S3jxjQSzK/giphy.gif" width="450">
+  
+  ```diff
+  + SUCCESSFUL DATABASE PENETRATION
+  ! EXFILTRATING DATA...
+  # 342,891 RECORDS COMPROMISED
+  > COVERING TRACKS...
 <!------------------------------------------------------------------------------------------------------------------->
 
 # 💻 Tech Stack:
