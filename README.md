@@ -4,19 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Initializing+Cyber+Ops...;Connecting+to+GitHub+Server...;Deploying+Full+Stack+Skills...;Access+Granted!+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/11BbGyhVmk4iLS/giphy.gif" width="500" alt="Matrix Rain Classic">
+  <img src="https://i.gifer.com/origin/bf/bfd0a5edfacdcfa10361bda35b5f6670_w200.gif" width="500" alt="Matrix Rain 1">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Matrix Terminal Zoom">
+  <img src="https://i.gifer.com/7VE.gif" width="500" alt="Matrix Rain 2">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="500" alt="Fast Matrix Code Scroll">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500" alt="Matrix Rain 3">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNvdmZva3BlYXlsZzZ0eTVycnh6bGR6N2dzbG1ndDRyZmRqaXoydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qkB7qv0DhdXg3RUVtL/giphy.gif" width="500" alt="Matrix Tunnel">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/code.gif" width="500" alt="Matrix Programming Animation">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="500" alt="Matrix Wall Glitch">
+  <img src="https://i.pinimg.com/originals/9f/08/0e/9f080e7cb8288b2bafaa50f911361f89.gif" width="500" alt="Matrix 3D Rain">
 </p>
 
 
