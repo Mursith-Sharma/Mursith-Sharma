@@ -2,7 +2,7 @@
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m exploring the intersection of technology, security, and web development to build smarter solutions.<br>💻 Currently specializing in HTML, CSS, Bootstrap, PHP, and MySQL.<br>📈 Actively leveling up my skills in .NET and React.<br>🧠 Always ready to talk about full stack development and Cyber security.<br>🚀 Let’s create something awesome together!<br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+Im+Mursith+Sharma+%F0%9F%91%8B;Cybersecurity+is+my+Battlefield+-+I+Never+lose+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Powering+Complete+Solutions+-+That+is+My+Full+Stack+Way+%F0%9F%92%BB;Move+in+Silence...+Checkmate+%E2%99%9F%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+Im+Mursith+Sharma+%F0%9F%91%8B;Cybersecurity+is+my+Battlefield+-+I+Never+lose+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Powering+Complete+Solutions+-+That+is+My+Full+Stack+Way+%F0%9F%92%BB;Move+in+Silence...+Checkmate+%F0%9F%92%80" alt="Typing Animation" />
 </p>
 
 
