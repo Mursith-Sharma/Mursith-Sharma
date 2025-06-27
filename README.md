@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m exploring the intersection of technology, security, and web development to build smarter solutions.<br>💻 Currently specializing in HTML, CSS, Bootstrap, PHP, and MySQL.<br>📈 Actively leveling up my skills in .NET and React.<br>🧠 Always ready to talk about front-end and back-end in full stack development.<br>🎓 I’m currently a student, continuing my journey toward becoming a seasoned professional.<br>🚀 Let’s create something awesome together!<br><br>
+👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m exploring the intersection of technology, security, and web development to build smarter solutions.<br>💻 Currently specializing in HTML, CSS, Bootstrap, PHP, and MySQL.<br>📈 Actively leveling up my skills in .NET and React.<br>🧠 Always ready to talk about full stack development and Cyber security.<br><br>🚀 Let’s create something awesome together!<br><br>
 
 
 # 💻 Tech Stack:
