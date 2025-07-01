@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=FF1493&center=true&vCenter=true&width=900&lines=Visit+My+Portfolio+%F0%9F%92%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=FF1493&center=true&vCenter=true&width=900&lines=Visit+My+Portfolio" alt="Typing Animation" />
 </p>
 
 <p align="center" style="font-size: 30px; font-weight: bold;">👇</p>
