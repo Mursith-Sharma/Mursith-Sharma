@@ -7,7 +7,6 @@
 </p>
 <p align="center" style="font-size: 30px; font-weight: bold;">👇</p>
 
-<br>
 
 <p align="center">
   <a href="https://mursith-sharma.github.io/My-Portfolio/" target="_blank">
@@ -15,7 +14,7 @@
   </a>
 </p>
 
-
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Hey+Im+Mursith+Sharma+%F0%9F%91%8B;Cybersecurity+is+my+Battlefield+-+I+Never+lose+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Powering+Complete+Solutions+-+That+is+My+Full+Stack+Way+%F0%9F%92%BB;Move+in+Silence...+Checkmate+%F0%9F%92%80" alt="Typing Animation" />
