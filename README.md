@@ -1,9 +1,16 @@
 # 💫 About Me:
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m Exploring the intersection of Technology, Security, and Web Development to Build Smarter Solutions.<br>💻 Currently Specializing in Web application Development Using HTML, CSS, Bootstrap, PHP, and MySQL..<br>📈 Actively leveling up my Skills in .NET and React.<br>🎯 Continuously Improving my Cybersecurity Skills to a Professional level.<br>🧠 Always ready to talk About cybersecurity and Full stack development.<br>🚀 Let’s Create Something awesome Together!<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Visit+My+Portfolio" alt="Typing Animation" />
+<p align="center" style="color: white; font-family: 'Fira Code', monospace; font-size: 24px;">
+  Visit My Portfolio
 </p>
+
+<p align="center">
+  <a href="https://mursith-sharma.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio Button">
+  </a>
+</p>
+
 
 
 <p align="center">
