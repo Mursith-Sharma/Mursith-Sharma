@@ -7,10 +7,10 @@
 
 
 <p align="center">
-<p align="left">
+<p align="left" style="margin: 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=00FF00&width=900&lines=Visit+My+Portfolio" alt="Typing Animation" />
 </p>
-<p align="left" style="font-size: 30px; font-weight: bold;">👇</p>
+<p align="left" style="font-size: 30px; font-weight: bold; margin: 0;">👇</p>
 
 
   <a href="https://mursith-sharma.github.io/My-Portfolio/" target="_blank">
