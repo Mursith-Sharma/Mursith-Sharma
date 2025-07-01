@@ -7,10 +7,11 @@
 
 
 <p align="center">
-  <p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=00FF00&center=true&vCenter=true&width=900&lines=Visit+My+Portfolio" alt="Typing Animation" />
-  <p align="left" style="font-size: 30px; font-weight: bold;">👇</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=8000&pause=2000&color=00FF00&width=900&lines=Visit+My+Portfolio" alt="Typing Animation" />
 </p>
+<p align="left" style="font-size: 30px; font-weight: bold;">👇</p>
+
 
   <a href="https://mursith-sharma.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Visit_My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio Button">
