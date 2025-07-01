@@ -1,8 +1,11 @@
 # 💫 About Me:
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m Exploring the intersection of Technology, Security, and Web Development to Build Smarter Solutions.<br>💻 Currently Specializing in Web application Development Using HTML, CSS, Bootstrap, PHP, and MySQL..<br>📈 Actively leveling up my Skills in .NET and React.<br>🎯 Continuously Improving my Cybersecurity Skills to a Professional level.<br>🧠 Always ready to talk About cybersecurity and Full stack development.<br>🚀 Let’s Create Something awesome Together!<br><br>
 
-<p align="center" style="color: white; font-family: 'Fira Code', monospace; font-size: 24px;">
-  Visit My Portfolio
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+
+<!-- Bold White Text -->
+<p align="center" style="color: white; font-family: 'Fira Code', monospace; font-size: 32px; font-weight: bold;">
+  Visit My Portfolio 👇
 </p>
 
 <p align="center">
