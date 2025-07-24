@@ -34,10 +34,26 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mursith-Sharma&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mursith-Sharma&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+sssssssssssssssssssssssssss
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Chan%20Meng%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=55&descAlign=50)
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://chanmeng.live/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanmeng666/)
+
+</div>
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mursith-Sharma&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
