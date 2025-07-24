@@ -36,18 +36,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mursith-Sharma&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
-
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mursith-Sharma&icon=1&color=4)](https://visitcount.itsvg.in)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+
+
 
 
