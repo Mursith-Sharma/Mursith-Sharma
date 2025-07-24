@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Chan%20Meng%20👋&font=Fira+Code&size=50&pause=1000&color=000000&background=FFFFFF00&width=600&lines=A+Passionate+Developer;Professional+experience+in+Cyber+Security)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Mursith%20Sharma%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20Passionate%20Developer%20with%20Professional%20experience%20in%20Cyber%20Security&descSize=20&descAlignY=55&descAlign=50)
 
 # 💫 About Me:
