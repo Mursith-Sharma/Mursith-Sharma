@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Chan%20Meng%20👋&font=Fira+Code&size=50&pause=1000&color=000000&background=FFFFFF00&width=600&lines=A+Passionate+Developer;Professional+experience+in+Cyber+Security)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Mursith%20Sharma%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20Passionate%20Developer%20with%20Professional%20experience%20in%20Cyber%20Security&descSize=20&descAlignY=55&descAlign=50)
+
 # 💫 About Me:
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m Exploring the intersection of Technology, Security, and Web Development to Build Smarter Solutions.<br>💻 Currently Specializing in Web application Development Using HTML, CSS, Bootstrap, PHP, and MySQL..<br>📈 Actively leveling up my Skills in .NET and React.<br>🎯 Continuously Improving my Cybersecurity Skills to a Professional level.<br>🧠 Always ready to talk About cybersecurity and Full stack development.<br>🚀 Let’s Create Something awesome Together!<br><br>
 
