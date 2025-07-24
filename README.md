@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Chan%20Meng%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=55&descAlign=50)
 # 💫 About Me:
 👋 Hello, world! I’m Mursith Sharma.<br>🔍 I’m Exploring the intersection of Technology, Security, and Web Development to Build Smarter Solutions.<br>💻 Currently Specializing in Web application Development Using HTML, CSS, Bootstrap, PHP, and MySQL..<br>📈 Actively leveling up my Skills in .NET and React.<br>🎯 Continuously Improving my Cybersecurity Skills to a Professional level.<br>🧠 Always ready to talk About cybersecurity and Full stack development.<br>🚀 Let’s Create Something awesome Together!<br><br>
 
@@ -34,17 +35,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mursith-Sharma&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mursith-Sharma&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-sssssssssssssssssssssssssss
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Chan%20Meng%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20exploring%20the%20digital%20frontier&descSize=20&descAlignY=55&descAlign=50)
 
-<div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=yellow)](https://chanmeng.live/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanmeng666/)
-
-</div>
 
 
 
