@@ -5,6 +5,9 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100%" alt="matrix rain" />
+</p>
 
 
 
